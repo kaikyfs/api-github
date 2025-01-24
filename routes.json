@@ -1,0 +1,5 @@
+{
+    "/users/:login": "/users?login=:login",
+    "/users/:login/repos": "/repos?userLogin=:login"
+}
+  
